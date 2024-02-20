@@ -1,0 +1,23 @@
+{
+  "name": "vistasdinamicasejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patricia-Gonzalez/vistasDinamicasEjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patricia-Gonzalez/vistasDinamicasEjs/issues"
+  },
+  "homepage": "https://github.com/Patricia-Gonzalez/vistasDinamicasEjs#readme"
+}
